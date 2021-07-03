@@ -11,6 +11,6 @@ import org.testng.annotations.Test;
 public class RegisterTest {
     @Test
     public void registerTest() {
-        System.out.println(" Register   success 注册成功");
+        System.out.println(" Register   success   注册成功");
     }
 }
