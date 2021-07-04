@@ -2,22 +2,22 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="30" started-at="2021-07-03T15:09:57Z" finished-at="2021-07-03T15:09:57Z">
+  <suite name="All Test Suite" duration-ms="40" started-at="2021-07-04T00:07:58Z" finished-at="2021-07-04T00:07:58Z">
     <groups>
     </groups>
-    <test name="E:/IDEA_workspace/jenkins_test" duration-ms="30" started-at="2021-07-03T15:09:57Z" finished-at="2021-07-03T15:09:57Z">
-      <class name="testcase.RegisterTest">
-        <test-method status="PASS" signature="registerTest()[pri:0, instance:testcase.RegisterTest@59a6e353]" name="registerTest" duration-ms="0" started-at="2021-07-03T15:09:57Z" finished-at="2021-07-03T15:09:57Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registerTest -->
-      </class> <!-- testcase.RegisterTest -->
+    <test name="E:/IDEA_workspace/jenkins_test" duration-ms="40" started-at="2021-07-04T00:07:58Z" finished-at="2021-07-04T00:07:58Z">
       <class name="testcase.LoginTest">
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:testcase.LoginTest@3d24753a]" name="loginTest" duration-ms="10" started-at="2021-07-03T15:09:57Z" finished-at="2021-07-03T15:09:57Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:testcase.LoginTest@17c68925]" name="loginTest" duration-ms="10" started-at="2021-07-04T00:07:58Z" finished-at="2021-07-04T00:07:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
       </class> <!-- testcase.LoginTest -->
+      <class name="testcase.RegisterTest">
+        <test-method status="PASS" signature="registerTest()[pri:0, instance:testcase.RegisterTest@7e0ea639]" name="registerTest" duration-ms="0" started-at="2021-07-04T00:07:58Z" finished-at="2021-07-04T00:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+      </class> <!-- testcase.RegisterTest -->
     </test> <!-- E:/IDEA_workspace/jenkins_test -->
   </suite> <!-- All Test Suite -->
 </testng-results>

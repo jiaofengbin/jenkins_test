@@ -5,6 +5,8 @@
         <classes>
             <class name="testcase.LoginTest"/>
             <class name="testcase.RegisterTest"/>
+            <class name="testcase.TestDome"/>
+
         </classes>
      </test>
 </suite>
