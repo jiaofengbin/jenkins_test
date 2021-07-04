@@ -9,6 +9,6 @@ import org.testng.annotations.Test;
 public class TestDome {
     @Test
     public void  test(){
-        System.out.println(" gogogo 爱你有错吗？这个项目去Git哪里了");
+        System.out.println(" test allure 报表 ");
     }
 }
